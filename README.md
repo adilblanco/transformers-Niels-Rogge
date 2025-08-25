@@ -1,5 +1,6 @@
 # Transformers-Niels-Rogge
 ## How a Transformer works at inference vs training time
-https://www.youtube.com/watch?v=IGu7ivuy1Ag&t=1588s
+https://www.youtube.com/watch?v=IGu7ivuy1Ag&t=1588s     
+https://excalidraw.com/
 
 ![alt text](figures/transformers-2025-08-24-1513.png "Title")
